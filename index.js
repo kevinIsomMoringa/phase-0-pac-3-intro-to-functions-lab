@@ -45,7 +45,7 @@ function sayHiToHeadphonedRoommate(str) {
 }
 
 
-logShout('Hey')
-logWhisper(`Whispering and Logging`)
+//logShout('Hey')
+//logWhisper(`Whispering and Logging`)
 //sayHiToGrandma('HEY GRANDMA')
-console.log(sayHiToHeadphonedRoommate("Let's have dinner together!"))
+//console.log(sayHiToHeadphonedRoommate("Let's have dinner together!"))
