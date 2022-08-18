@@ -48,4 +48,4 @@ function sayHiToHeadphonedRoommate(str) {
 logShout('Hey')
 logWhisper(`Whispering and Logging`)
 //sayHiToGrandma('HEY GRANDMA')
-console.log(sayHiToHeadphonedRoommate("Let's havetogether!"))
+console.log(sayHiToHeadphonedRoommate("Let's have dinner together!"))
